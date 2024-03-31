@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1711837820 source:e:\external learning\learn c\projects\student_cproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
+1711840414 source:e:\external learning\learn c\projects\student_cproject\sdb.c
+	"SDB.h"
+	<stdio.h>
+	<stdlib.h>
+
+1711838388 e:\external learning\learn c\projects\student_cproject\sdb.h
+	"STD.h"
+
+1711772373 source:e:\external learning\learn c\projects\student_cproject\sdbapp.c
+	"SDB.h"
+	"STD.h"
+
+1711766020 e:\external learning\learn c\projects\student_cproject\std.h
+
